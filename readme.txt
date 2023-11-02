@@ -1,0 +1,1 @@
+Contents of this repository shall be programs that can be used for beachvolleyball training, tournaments etc.
